@@ -16,4 +16,6 @@
     <string name="login_failed">"Login failed"</string>
     <string name="Login">Логин</string>
     <string name="Password">пароль</string>
+    <string name="textGrid">Здесь вы можете посмотреть
+                                  личные данные</string>
 </resources>

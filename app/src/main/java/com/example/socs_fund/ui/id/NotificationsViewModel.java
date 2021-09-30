@@ -1,4 +1,4 @@
-package com.example.socs_fund.ui.notifications;
+package com.example.socs_fund.ui.id;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

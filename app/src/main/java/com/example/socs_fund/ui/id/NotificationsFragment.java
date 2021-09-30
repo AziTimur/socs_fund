@@ -1,4 +1,4 @@
-package com.example.socs_fund.ui.notifications;
+package com.example.socs_fund.ui.id;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,7 +12,6 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.socs_fund.R;
 import com.example.socs_fund.databinding.FragmentNotificationsBinding;
 
 public class NotificationsFragment extends Fragment {
