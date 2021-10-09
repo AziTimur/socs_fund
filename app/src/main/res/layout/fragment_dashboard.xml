@@ -12,5 +12,7 @@
       android:layout_height="wrap_content"
       app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
       tools:listitem="@layout/item_service"
+      tools:itemCount="3"
+      android:orientation="horizontal"
       tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
